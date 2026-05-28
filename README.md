@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Anuj Bartwal</h1>
 <h3 align="center">AI/ML Enthusiast • Python Developer • Django Learner</h3>
 
