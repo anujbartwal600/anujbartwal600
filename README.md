@@ -43,13 +43,6 @@ Predicts diseases using Machine Learning models and clinical biomarkers.
 <a href="https://github.com/anujbartwal600/Ai-health-prediction-system">
 AI Health Prediction System
 </a>
-## 🎮 Tic Tac Toe Game
-
-Python GUI Tic Tac Toe built with Tkinter.
-
-<p align="center">
-  <img src="https://github.com/anujbartwal600/anujbartwal600/blob/main/TicTacToe2026-05-3016-43-53-ezgif.com-video-to-gif-converter.gif" width="600">
-</p>
 
 ---
 
