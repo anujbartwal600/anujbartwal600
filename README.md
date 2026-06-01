@@ -69,7 +69,10 @@ AI Health Prediction System
 <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,vscode,tensorflow,sklearn,pandas&theme=dark" />
 
 </p>
-
+--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anujbartwal600/anujbartwal600/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 # ✨ Quote
