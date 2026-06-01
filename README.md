@@ -70,6 +70,9 @@ AI Health Prediction System
 
 </p>
 --
+
+
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/anujbartwal600/anujbartwal600/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
