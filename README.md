@@ -44,6 +44,12 @@ Predicts diseases using Machine Learning models and clinical biomarkers.
 AI Health Prediction System
 </a>
 
+# 🎮 Tic Tac Toe Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anujbartwal600/anujbartwal600/main/TicTacToe2026-05-3016-43-53-ezgif.com-video-to-gif-converter.gif" width="800">
+</p>
+
 ---
 
 # 🌐 Connect With Me
