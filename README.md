@@ -15,10 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=anujbartwal600&label=Profile%20Views&color=000000&style=for-the-badge" alt="profile views" />
 </p>
 
----
 
-# 🚀 About Me
 
+ <b>🚀 About Me</b> 
+<br>
 - 🔭 Currently working on **AI & Machine Learning Projects**
 
 - 🌱 Learning **Deep Learning & Model Deployment**
@@ -31,7 +31,7 @@
 
 - 📫 Reach me at: **anujanujbartwal@gmail.com**
 
----
+
 
 # 🧠 Featured Project
 
